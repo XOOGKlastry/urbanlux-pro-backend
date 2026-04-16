@@ -1,0 +1,17 @@
+# Zależności (Dependencies)
+node_modules/
+
+# Pliki środowiskowe (Nigdy nie wysyłaj haseł!)
+.env
+.env.local
+
+# Pliki budowania (Build output)
+dist/
+build/
+.next/
+
+# Pliki systemowe i logi
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
